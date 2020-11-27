@@ -1,6 +1,15 @@
 name: RedstoneCircuit
 main: redstone\Main
 version: 2.0.0
-api: 3.6.0
+api: 
+- 3.6.0
+mcpe-protocol:
+- 361
+- 388
+- 389
+- 390
+- 407
+- 408
+- 419
 author: tedo0627
 load: STARTUP
